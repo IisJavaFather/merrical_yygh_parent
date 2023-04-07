@@ -18,6 +18,7 @@ public class SwaggerConfig {
 
     @Bean
     public Docket getAdminDocket(){
+
         return new Docket(DocumentationType.SWAGGER_2)
                 .groupName("admin")
                 .apiInfo(getAdminApiInfo())
