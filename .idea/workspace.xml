@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2eadb26-c2fa-41fd-9f85-6494aac9c692" name="变更" comment="尚医通 搭建完成 Ver1.0" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="mybatis-mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenRepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\Users\Merrical\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2M30ZDbyDPXPrIwaBaw882GfuPM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "JDK_1.8",
+    "last_opened_file_path": "E:/syt-parent",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.63448274",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "99542142b46dece04cc6b47ba73954c6"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\syt-parent\gateway\src\main\java" />
+      <recent name="E:\syt-parent\service\service_user\src\main\java" />
+      <recent name="E:\syt-parent\service\service_task\src\main\java" />
+      <recent name="E:\syt-parent\service_client\service_user_client\src\main\java" />
+      <recent name="E:\syt-parent\service_client\service_order_client\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\cloud2020\cloud-consumer-feign-order80\src\test\java" />
+      <recent name="E:\cloud2020\cloud-provider-payment8001\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.springcloud.service" />
+      <recent name="com.atguigu.springcloud.service.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.whozm.yygh.hosp.result" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ServiceCmnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_cmn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.whozm.yygh.cmn.ServiceCmnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Merrical\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e2eadb26-c2fa-41fd-9f85-6494aac9c692" name="变更" comment="" />
+      <created>1676981013203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676981013203</updated>
+      <workItem from="1676981014452" duration="4263000" />
+      <workItem from="1676987407717" duration="2510000" />
+      <workItem from="1677067761955" duration="149000" />
+      <workItem from="1677070640455" duration="2203000" />
+      <workItem from="1677073181513" duration="110000" />
+      <workItem from="1677073303461" duration="2329000" />
+      <workItem from="1677118902191" duration="207000" />
+      <workItem from="1677154813047" duration="5360000" />
+      <workItem from="1677462842908" duration="842000" />
+      <workItem from="1677503432820" duration="6717000" />
+      <workItem from="1677589065794" duration="4410000" />
+      <workItem from="1677718637287" duration="1296000" />
+      <workItem from="1677723677964" duration="15000" />
+      <workItem from="1677760738240" duration="100000" />
+      <workItem from="1677931297689" duration="7550000" />
+      <workItem from="1678063438692" duration="27000" />
+      <workItem from="1678063882769" duration="3197000" />
+      <workItem from="1678094745012" duration="207000" />
+      <workItem from="1678103344698" duration="1513000" />
+      <workItem from="1678105219907" duration="1675000" />
+      <workItem from="1678107319663" duration="6065000" />
+      <workItem from="1678181985670" duration="857000" />
+      <workItem from="1678183150884" duration="111000" />
+      <workItem from="1678282064128" duration="600000" />
+      <workItem from="1678284883351" duration="344000" />
+      <workItem from="1678329495527" duration="1798000" />
+      <workItem from="1678365002322" duration="1187000" />
+      <workItem from="1678408416467" duration="7000" />
+      <workItem from="1678709799482" duration="8537000" />
+      <workItem from="1678796367578" duration="601000" />
+      <workItem from="1678885098431" duration="4377000" />
+      <workItem from="1678934024088" duration="399000" />
+      <workItem from="1678965441322" duration="8081000" />
+      <workItem from="1678977492774" duration="2832000" />
+      <workItem from="1679012980542" duration="16000" />
+      <workItem from="1679143859213" duration="193000" />
+      <workItem from="1679144066523" duration="4641000" />
+      <workItem from="1679153276204" duration="3050000" />
+      <workItem from="1679156352186" duration="1576000" />
+      <workItem from="1679195335125" duration="4970000" />
+      <workItem from="1679232440001" duration="3165000" />
+      <workItem from="1679273767654" duration="76000" />
+      <workItem from="1679312343608" duration="6222000" />
+      <workItem from="1679390111789" duration="4435000" />
+      <workItem from="1679401349973" duration="5749000" />
+      <workItem from="1679408724543" duration="24000" />
+      <workItem from="1679472294942" duration="6359000" />
+      <workItem from="1679568183154" duration="6745000" />
+      <workItem from="1679713259057" duration="4000" />
+      <workItem from="1679757384338" duration="2561000" />
+      <workItem from="1679812606516" duration="11000" />
+      <workItem from="1680010653218" duration="1800000" />
+      <workItem from="1680058604084" duration="320000" />
+      <workItem from="1680081738538" duration="8257000" />
+      <workItem from="1680180604352" duration="601000" />
+      <workItem from="1680226067858" duration="17000" />
+      <workItem from="1680226118678" duration="47000" />
+      <workItem from="1680264755296" duration="7887000" />
+      <workItem from="1680358911407" duration="5678000" />
+      <workItem from="1680418632819" duration="9745000" />
+      <workItem from="1680431123235" duration="4112000" />
+      <workItem from="1680775449782" duration="1407000" />
+      <workItem from="1680790163148" duration="200000" />
+      <workItem from="1680790369636" duration="182000" />
+      <workItem from="1680790629401" duration="63000" />
+      <workItem from="1680790825667" duration="110000" />
+      <workItem from="1680791195653" duration="337000" />
+      <workItem from="1680791549390" duration="22000" />
+      <workItem from="1680791656844" duration="457000" />
+      <workItem from="1680793121230" duration="202000" />
+      <workItem from="1680795508775" duration="151000" />
+      <workItem from="1680795763508" duration="61000" />
+      <workItem from="1680829979111" duration="2498000" />
+      <workItem from="1680832511530" duration="7617000" />
+      <workItem from="1680872133829" duration="1515000" />
+    </task>
+    <task id="LOCAL-00001" summary="cloud2020 0.1">
+      <created>1678977679188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678977679189</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cloud2020 0.1">
+      <created>1678978014515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678978014515</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cloud2020 0.2">
+      <created>1678978453853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678978453853</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cloud2020 0.2">
+      <created>1678978686332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678978686332</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cloud2020 0.2">
+      <created>1678978699928</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678978699928</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cloud2020 0.2">
+      <created>1678978702352</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678978702352</updated>
+    </task>
+    <task id="LOCAL-00007" summary="cloud2020 0.3">
+      <created>1678980035077</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678980035077</updated>
+    </task>
+    <task id="LOCAL-00008" summary="尚医通 搭建完成 Ver1.0">
+      <created>1680872975164</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680872975164</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cloud2020 0.1" />
+    <MESSAGE value="cloud2020 0.2" />
+    <MESSAGE value="cloud2020 0.3" />
+    <MESSAGE value="尚医通 搭建完成 Ver1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="尚医通 搭建完成 Ver1.0" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-consumer-order80/src/test/java/HashMapTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
